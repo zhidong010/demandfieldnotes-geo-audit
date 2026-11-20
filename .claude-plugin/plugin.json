@@ -1,7 +1,7 @@
 {
   "name": "demandfieldnotes-geo-audit",
   "description": "Free GEO snapshot audit for Claude Code — checks AI crawler access (robots.txt), llms.txt, schema markup, and content citability on any website, then scores AI-search readiness 0-100 with prioritized fixes.",
-  "version": "0.1.1",
+  "version": "0.1.2",
   "author": {
     "name": "Demand Field Notes"
   },

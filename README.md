@@ -33,7 +33,7 @@ The snapshot is a genuine diagnostic, not a teaser — it finds real, fixable pr
 - 6-category depth across up to 50 pages (vs. 4 categories on ≤10 here)
 - a prioritized fix plan based on real buyer-prompt evidence
 
-That is the [Demand Field Notes](https://demandfieldnotes.com) audit — start with the **free instant AI-visibility check**, then go deeper. *When buyers ask AI, make sure your product is the first one it mentions.*
+That is the [Demand Field Notes](https://demandfieldnotes.com/claude) audit — start with the **free instant AI-visibility check**, then go deeper. *When buyers ask AI, make sure your product is the first one it mentions.*
 
 ## License
 
