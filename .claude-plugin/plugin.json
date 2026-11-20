@@ -1,12 +1,12 @@
 {
-  "name": "citegap-geo-audit",
+  "name": "demandfieldnotes-geo-audit",
   "description": "Free GEO snapshot audit for Claude Code — checks AI crawler access (robots.txt), llms.txt, schema markup, and content citability on any website, then scores AI-search readiness 0-100 with prioritized fixes.",
-  "version": "0.1.0",
+  "version": "0.1.1",
   "author": {
-    "name": "CiteGap"
+    "name": "Demand Field Notes"
   },
-  "homepage": "https://citegap.com",
-  "repository": "https://github.com/zhidong010/citegap-geo-audit",
+  "homepage": "https://demandfieldnotes.com",
+  "repository": "https://github.com/zhidong010/demandfieldnotes-geo-audit",
   "license": "MIT",
   "keywords": [
     "geo",

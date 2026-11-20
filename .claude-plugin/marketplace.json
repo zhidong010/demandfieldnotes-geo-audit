@@ -1,20 +1,20 @@
 {
   "$schema": "https://anthropic.com/claude-code/marketplace.schema.json",
-  "name": "citegap-geo-audit",
+  "name": "demandfieldnotes-geo-audit",
   "description": "Free GEO snapshot audit for Claude Code — find out whether AI search engines (ChatGPT, Claude, Perplexity, Google AI) can find and cite your website.",
   "owner": {
-    "name": "CiteGap"
+    "name": "Demand Field Notes"
   },
   "plugins": [
     {
-      "name": "citegap-geo-audit",
+      "name": "demandfieldnotes-geo-audit",
       "description": "Run a free GEO (Generative Engine Optimization) snapshot audit of any website inside Claude Code: AI crawler access, llms.txt, schema markup, and content citability, scored 0-100 with prioritized fixes.",
       "author": {
-        "name": "CiteGap"
+        "name": "Demand Field Notes"
       },
       "category": "seo",
       "source": "./",
-      "homepage": "https://citegap.com"
+      "homepage": "https://demandfieldnotes.com"
     }
   ]
 }

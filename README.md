@@ -1,4 +1,4 @@
-# citegap-geo-audit
+# demandfieldnotes-geo-audit
 
 A free [Claude Code](https://claude.com/claude-code) plugin that audits whether AI search engines — ChatGPT, Claude, Perplexity, Google AI Overview — can find and cite your website.
 
@@ -21,19 +21,19 @@ The report lands in `GEO-SNAPSHOT.md`: score, critical findings with exact evide
 
 ```text
 # in Claude Code
-/plugin marketplace add zhidong010/citegap-geo-audit
-/plugin install citegap-geo-audit@citegap-geo-audit
+/plugin marketplace add zhidong010/demandfieldnotes-geo-audit
+/plugin install demandfieldnotes-geo-audit@demandfieldnotes-geo-audit
 ```
 
 ## Snapshot vs. full audit
 
 The snapshot is a genuine diagnostic, not a teaser — it finds real, fixable problems (blocked crawlers alone are often the whole story). What it does **not** do:
 
-- platform-level testing: how ChatGPT / Claude / Perplexity / Google AI actually answer buying questions in your category, and who gets cited instead of you
+- platform-level testing: how ChatGPT / Claude / Perplexity / Google AI actually answer real buyer prompts in your category, and whether *your* product is the one they mention first
 - 6-category depth across up to 50 pages (vs. 4 categories on ≤10 here)
-- a prioritized 90-day fix plan with progress tracking
+- a prioritized fix plan based on real buyer-prompt evidence
 
-That is the [CiteGap](https://citegap.com) audit: *Your competitors show up in AI search. Do you?*
+That is the [Demand Field Notes](https://demandfieldnotes.com) audit — start with the **free instant AI-visibility check**, then go deeper. *When buyers ask AI, make sure your product is the first one it mentions.*
 
 ## License
 
